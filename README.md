@@ -45,8 +45,8 @@ safari 触发xss结果如下图:
 
 方式同上
 
-## [github imagejs](javascript into a valid image file)
+## [github imagejs](https://github.com/jklmnn/imagejs)
 
-from [javascript into a valid image file](javascript into a valid image file),
+from [https://github.com/jklmnn/imagejs](https://github.com/jklmnn/imagejs)
 
 支持输出文件: gif, bmp, webp, pnm, pgf
